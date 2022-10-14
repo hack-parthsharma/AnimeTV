@@ -27,3 +27,5 @@ To run the application run :
 ```
 python main.py
 ```
+
+Search any anime
